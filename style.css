@@ -58,6 +58,7 @@ img {
   font-size: 20px;
   color: #444;
   transition: color 0.3s ease;
+  cursor: pointer;
 }
 
 .gnb a:hover {
@@ -72,6 +73,7 @@ img {
   background: transparent;
   cursor: pointer;
   position: relative;
+  cursor: pointer;
 }
 
 .menu-btn span {
